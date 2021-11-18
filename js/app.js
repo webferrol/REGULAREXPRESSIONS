@@ -16,6 +16,7 @@ const select = document.querySelector("#select");
 select.onchange = (e) => {
     switch (e.target.value) {
         case "0":
+            break;
         case "1":
         case "2":
         case "3":
